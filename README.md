@@ -1,4 +1,4 @@
 # Expense Record
-Web application for recording the expense. Devoloped by using React libary.
+Web application for recording the expense. Developed by using React libary.
 
 ![](Untitled.png)
